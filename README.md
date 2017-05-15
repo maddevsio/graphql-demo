@@ -17,6 +17,12 @@ pip install -r requirements.txt
 exit
 ./run.sh
 ```
+Please open ```config/main-config.py``` and fix database connection string to your needs.
+After that, you must to proceed to this url, to populate your database:
+
+```
+http://127.0.0.1:5000/initdb
+```
 
 Then open this address in your browser:
 
