@@ -13,7 +13,7 @@ git clone https://github.com/maddevsio/graphql-demo.git
 cd graphql-demo
 virtualenv venv
 source venv/bin/activate
-pip install < requirements.txt
+pip install -r requirements.txt
 exit
 ./run.sh
 ```
