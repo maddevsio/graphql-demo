@@ -21,7 +21,7 @@ exit
 Then open this address in your browser:
 
 ```
-http://127.0.0.1:500
+http://127.0.0.1:5000
 ```
 
 And voila, you can see Graphiql interface open and ready!
